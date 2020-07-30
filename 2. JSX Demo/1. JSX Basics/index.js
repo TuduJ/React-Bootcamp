@@ -24,5 +24,6 @@ class JSXDemo2 extends React.Component {
 }
 
 
+
 ReactDOM.render(<JSXDemo1/>, document.getElementById('root1'));
 ReactDOM.render(<JSXDemo2/>, document.getElementById('root2'));
