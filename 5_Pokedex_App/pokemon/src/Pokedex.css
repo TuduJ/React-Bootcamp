@@ -1,0 +1,23 @@
+.Pokedex-card{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.Pokedex-title{
+    display: flex;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+}
+
+.Pokedex-score{
+
+}
+
+.Pokedex-winner{
+    color: green;
+}
+
+.Pokedex-looser{
+    color: red;
+}
